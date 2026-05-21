@@ -1,3 +1,4 @@
 file2.txt created
 File2 is from master
+Conflict - Feature branch
 Conflict from Master branch
